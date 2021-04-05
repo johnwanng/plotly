@@ -16,7 +16,7 @@ var pathArr =    {'0': 'M 0.17 0.5 L 0.34 0.5 L 0.35 0.5 Z', //0
 
 // Use d3.json() to fetch data from samples.JSON file
 // Incoming data is internally referred to as incomingData
-d3.json("../data/samples.json").then((importedData) => {
+d3.json("data/samples.json").then((importedData) => {
   console.log(importedData);
   data = importedData;
   metadata = importedData.metadata;
