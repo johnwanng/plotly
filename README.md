@@ -44,3 +44,5 @@ Javascript
 2. Open Terminal (on Mac) or Open Bash (on PC)
 
 3. Navigate to https://johnwanng.github.io/plotly/ link will display the main, i.e. index.html, file.
+
+4. Select the 'Test Subject ID No.:' dropdown will update the demographic information as well as the three related charts.
